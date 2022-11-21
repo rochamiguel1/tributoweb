@@ -1,39 +1,33 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: rgb(159, 155, 140);
+    background-color: rgb(124, 111, 61);
 }
 
 nav {
     color: rgba(194, 21, 21, 0.886);
-}
+    }
+
+    
 /* index */
 .banda {
-    text-align: center;
+text-align: center;
 }
 
-h1 {
-    font-family: cursive;
-    color: brown;
-    text-align: center;
-   
 
-}
 
-table,
-tr,
-th {
+table, tr, th {
     width: 50%;
     padding: 5px;
     margin: auto;
-    background-color:darkkhaki;
-    color:brown;
+    background-color: darkkhaki;
+    color: brown;
 }
+
+
 
 /* about */
 
-
-.contenedorPrincipal {}
 
 .ezio img {
     float: left;
@@ -60,23 +54,23 @@ th {
 }
 
 .bateriaparrafo {
-   
+
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     text-align: justify;
     margin-bottom: 300%;
     width: 300%;
-    
-
 }
-h1{
+
+
+h1 {
     font-size: 50px;
 }
 
 p {
     font-size: 20px;
     color: rgb(246, 234, 8);
-    
+
 }
 
 /* gallery */
@@ -88,17 +82,5 @@ p {
 /* contact */
 
 .formulario {
- text-align: center;
-}
-
-input {
-    background-color: white;
-}
-
-select {
-    background-color: white;
-}
-
-textarea {
-    background-color: white;
+    text-align: center;
 }
